@@ -1,0 +1,144 @@
+repos
+https://github.com/coderQuad/New-Grad-Positions
+https://github.com/ReaVNaiL/New-Grad-2024
+https://github.com/AlanChen4/2024-SWE-New-Grad
+sites
+https://simplify.jobs/l/Top-New-Grad
+https://hiring.cafe/
+https://www.governmentjobs.com/jobs/
+https://www.linkedin.com/jobs/
+https://www.indeed.com/
+https://ripplematch.com/
+https://app.joinhandshake.com/login
+https://www.levels.fyi/jobs
+https://www.codenjobs.com/jobs/
+https://www.clearancejobs.com/
+https://leap.microsoft.com/en-US/application-process/
+https://www.metacareers.com/careerprograms/pathways/re
+startups
+https://builtin.com/
+https://johngannonblog.com/
+https://wellfound.com/
+https://www.startupers.com/
+https://www.ycombinator.com/jobs
+advice
+https://hachiyuki8.github.io/tech/job-hunt-advice
+https://www.techinterviewhandbook.org/
+https://justinlinpersonal.notion.site/Written-Guide-ad5593333b0540c2b9a4fab8a07f4365
+resume
+https://thetechresume.com/
+https://www.overleaf.com/latex/templates/jakes-resume/syzfjbzwjncs
+job tracker
+https://www.notion.so/templates/job-hunt-tracker
+recruiters
+https://recruiterdb.web.app/
+https://www.careershift.com/
+CLOUD
+cloud resume project
+https://cloudresumechallenge.dev/docs/the-challenge/aws/
+devops
+https://roadmap.sh/devops
+https://roadmap.sh/docker
+https://roadmap.sh/kubernetes
+https://github.com/100daysofdevops/100daysofdevops
+The Phoenix Project => The Unicorn Project
+aws
+https://skillbuilder.aws/
+https://aws.amazon.com/certification/
+aws saa
+https://learn.cantrill.io/p/aws-certified-solutions-architect-associate-saa-c03
+https://www.udemy.com/course/aws-certified-solutions-architect-associate-saa-c03/
+aws ccp
+https://www.udemy.com/course/aws-certified-cloud-practitioner-new/
+https://d1.awsstatic.com/training-and-certification/docs-cloud-practitioner/AWS-Certified-Cloud-Practitioner_Exam-Guide.pdf
+https://d1.awsstatic.com/training-and-certification/docs-cloud-practitioner/AWS-Certified-Cloud-Practitioner_Sample-Questions.pdf
+https://explore.skillbuilder.aws/learn/course/external/view/elearning/12483/aws-certified-cloud-practitioner-practice-question-set-clf-c01-english
+https://amazonmr.au1.qualtrics.com/jfe/form/SV_eyBlfVF4Sloz1zL?CPEPowerHour=APR21IntroAWSCloud
+https://tutorialsdojo.com/aws-cloud-practitioner-clf-c01-exam-guide/#common-exam-scenarios
+https://portal.tutorialsdojo.com/courses/aws-cloud-practitioner-essentials/
+extra certs
+https://www.comptia.org/training/by-certification/a
+https://www.comptia.org/certifications/network
+https://www.comptia.org/certifications/security
+https://www.comptia.org/certifications/linux
+https://www.cisco.com/c/en/us/training-events/training-certifications/certifications/associate/ccna.html
+https://learn.microsoft.com/en-us/credentials/certifications/exams/az-900/
+https://learn.microsoft.com/en-us/credentials/certifications/exams/az-104/
+TECHNICAL
+lc
+https://leetcode-company-tagged.vercel.app/
+https://hachiyuki8.github.io/assets/Leetcode.pdf
+https://seanprashad.com/leetcode-patterns/
+blind75
+https://leetcode.com/list/oizxjoit/
+grind75
+https://leetcode.com/list/rab78cw1/
+grind169
+https://leetcode.com/list/rabvlt31/
+neetcode150
+https://leetcode.com/list/rr2ss0g5/
+sql45
+https://leetcode.com/list/o2qifkts/
+
+lc (cont.)
+https://docs.google.com/spreadsheets/d/1pEzcVLdj7T4fv5mrNhsOvffBnsUH07GZk7c2jD-adE0/edit#gid=0
+https://github.com/wisdompeak/LeetCode
+sliding window
+https://leetcode.com/problems/frequency-of-the-most-frequent-element/solutions/1175088/C++-Maximum-Sliding-Window-Cheatsheet-Template/
+two pointers
+https://leetcode.com/discuss/study-guide/1688903/Solved-all-two-pointers-problems-in-100-days
+substring
+https://leetcode.com/problems/minimum-window-substring/solutions/26808/Here-is-a-10-line-template-that-can-solve-most-'substring'-problems/
+binary search
+https://leetcode.com/discuss/study-guide/786126/Python-Powerful-Ultimate-Binary-Search-Template.-Solved-many-problems
+tree
+https://leetcode.com/discuss/study-guide/937307/Iterative-or-Recursive-or-DFS-and-BFS-Tree-Traversal-or-In-Pre-Post-and-LevelOrder-or-Views
+backtracking
+https://leetcode.com/problems/permutations/solutions/18239/A-general-approach-to-backtracking-questions-in-Java-(Subsets-Permutations-Combination-Sum-Palindrome-Partioning)/
+graph
+https://leetcode.com/discuss/study-guide/655708/Graph-For-Beginners-Problems-or-Pattern-or-Sample-Solutions
+dp
+https://leetcode.com/discuss/general-discussion/458695/dynamic-programming-patterns#Minimum-(Maximum)-Path-to-Reach-a-Target
+https://leetcode.com/discuss/study-guide/458695/Dynamic-Programming-Patterns
+https://leetcode.com/discuss/study-guide/1437879/Dynamic-Programming-Patterns
+TECHNICAL (CONT.)
+dev
+https://github.com/kamranahmedse/developer-roadmap
+data science
+https://drive.google.com/drive/folders/1CgN7DE3pNRNh_4BA_zrrMLqWz6KquwuD
+networking
+https://gaia.cs.umass.edu/kurose_ross/lectures.php
+https://www.youtube.com/playlist?list=PLo80JwUm6hSSwGLJmS_quaeJgx9SILLiI
+https://csc-knu.github.io/sys-prog/books/Andrew%20S.%20Tanenbaum%20-%20Computer%20Networks.pdf
+Networking All-in-One For Dummies (8th edition)
+oop
+https://www.edureka.co/blog/interview-questions/oops-interview-questions/
+cheat sheet
+https://www.overleaf.com/read/xwffbbzmrhtr
+system design
+https://github.com/donnemartin/system-design-primer
+Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems (1st edition)
+URL shortener
+https://www.codekarle.com/
+https://youtube.com/playlist?list=PLCRMIe5FDPsd0gVs500xeOewfySTsmEjf
+https://www.educative.io/courses/grokking-modern-system-design-interview-for-engineers-managers/system-design-tinyurl
+Twitter
+https://github.com/karanpratapsingh/system-design#twitter
+Dropbox
+https://systemdesignprimer.com/dropbox-system-design/
+Netflix
+https://github.com/karanpratapsingh/system-design#netflix
+Autocomplete (Google)
+https://www.enjoyalgorithms.com/blog/design-typeahead-system
+WhatsApp
+https://github.com/karanpratapsingh/system-design#whatsapp
+Google Docs
+https://medium.com/@sureshpodeti/system-design-google-docs-93e12133a979
+Uber
+https://github.com/karanpratapsingh/system-design#uber
+AirBNB
+https://www.nexsoftsys.com/articles/how-to-design-backend-system-of-an-online-hotel-booking-app-using-java.html
+Web Crawler
+https://www.enjoyalgorithms.com/blog/web-crawler
+os
+https://pages.cs.wisc.edu/~remzi/OSTEP/
