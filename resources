@@ -142,3 +142,14 @@ Web Crawler
 https://www.enjoyalgorithms.com/blog/web-crawler
 os
 https://pages.cs.wisc.edu/~remzi/OSTEP/
+
+
+
+########## System Design Resources ###############
+As a newbie preparing for the System Design interview, I found some awesome tools that really helped me understand how to get ready for them. I wanted to share these with you, hoping they can help someone else too ;)
+
+System Design Primer(https://lnkd.in/eipktUsS): This is a great guide that talks about the key components you need to know for your interview. 
+
+ByteByteGo: This is an amazing material! It has lots of representative questions with gold diagrams, and also offers insights into effective communication with interviewers, guiding you on how to methodically express your ideas and thought processes.
+
+Codemia: Mock interview with AI, including asking clarify questions, define the requirements, high level design, tradeoff and tech consideration. You'll get instant iterative feedback, and it's free!
